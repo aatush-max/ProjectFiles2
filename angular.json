@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "footballdata"
+    }
+  },
+  "defaultProject": "footballdata",
+  "cli": {
+    "analytics": "84028618-3b8a-47e5-8e80-59340e0bdbdd"
+  }
 }
