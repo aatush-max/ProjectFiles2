@@ -29,7 +29,7 @@
     "@angular/router": "~8.2.4",
     "check-node-version": "^4.0.3",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jw-angular-pagination": "^1.1.0",
     "ngx-pagination": "^5.0.0",
     "path": "^0.12.7",
