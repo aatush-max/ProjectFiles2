@@ -1,0 +1,12 @@
+h1 {
+    font-size:90px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col-lg-12 {
+    background-color:#99c2ff;
+    font-weight: bold;
+    border-style: solid;
+    border: 2px, solid, thistle;
+}
